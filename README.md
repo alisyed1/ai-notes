@@ -1,1 +1,1 @@
-# ai-notes
+# AI-notes
